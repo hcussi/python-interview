@@ -7,7 +7,7 @@ Several code examples are provided that demonstrates how to solve different prob
 - Python 3.11
 
 Miniconda is used to create virtual environments. Check the `requirements.txt` file in order to build one for your one.
-You will see many dependencies that are not used in the code base but are added by default by `conda`, fee free to remove those.
+You will see many dependencies that are not used in the code base but are added by default by `conda`, feel free to remove those.
 
 #### Setting up
 
